@@ -7,7 +7,7 @@ The Colorado Board of Elections requested help in completing an election audit o
 
 ### Purpose
 
-The Colorado Board of Elections employee requested help in completing an election audit of a recent local congressional election. The following tasks are to be included in the completed election audit.
+This election analysis audit calculates the total number of votes cast in the congressional election. The task also required a complete list of candidates who received votes. Calculate the total number of votes received by candidates. The percentage of votes each candidate won. And, Determining the winning candidate for the election based on popular vote. This analysis used python to calculate the result in the provided CSV data.
 
 ## Resources
 
@@ -31,6 +31,8 @@ The election analysis show that:
          The **winner** of the election was:
 
     **Diana DeGette**, who received **272,892** number of votes, **73.8%** of the total votes cast in the election.
+    
+    
 	
 ## Election-Audit Summary:
 
