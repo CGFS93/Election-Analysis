@@ -38,26 +38,6 @@ The election analysis show that:
 
 ## Election-Audit Results
 
-
-
-Election audit:
-
-	1. Calculate the total number of votes cast. 
-	2. Get a complete list of candidates who received votes. 
-	3. Calculate the total number of votes each candidate received. 
-	4. Calculate the percentage of votes each candidate won. 
-	5. Determine the winner of the election based on popular vote.
-	
-Final election audit:
-	
-	1. Calculate the voter turnout for each county.
-	2. Calculate the percentage of votes each county contributed to the election.
-	3. Determine which county had the largest turnout.
-
-## Election-Audit Summary:
-
-#### Election Results
-
 Total Votes: 369,711
 	
 County Results:
@@ -85,3 +65,16 @@ Election Winner:
 	Vote Count: 272,892
 
 	Percentage: 73.8%
+
+## Election-Audit Summary:
+
+	1. Calculate the total number of votes cast. 
+	2. Get a complete list of candidates who received votes. 
+	3. Calculate the total number of votes each candidate received. 
+	4. Calculate the percentage of votes each candidate won. 
+	5. Determine the winner of the election based on popular vote.
+	6. Calculate the voter turnout for each county.
+	7. Calculate the percentage of votes each county contributed to the election.
+	8. Determine which county had the largest turnout.
+
+
