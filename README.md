@@ -17,7 +17,7 @@ A Colorado Board of Elections employee requested your help in completing an elec
 
 **Software:** Python 3.8.3, Visual Studio Code 1.46.0
 
-## Summary
+## Overview of Election Audit:
 
 The election analysis show that:
 * There were 369,711 votes cast in the election.
@@ -36,7 +36,7 @@ The election analysis show that:
 	
   
 
-## Challenge Overview
+## Election-Audit Results
 
 
 
@@ -54,7 +54,7 @@ Final election audit:
 	2. Calculate the percentage of votes each county contributed to the election.
 	3. Determine which county had the largest turnout.
 
-## Challenge Summary
+## Election-Audit Summary:
 
 #### Election Results
 
