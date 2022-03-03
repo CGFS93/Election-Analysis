@@ -32,7 +32,7 @@ The election analysis show that:
 
     **Diana DeGette**, who received **272,892** number of votes, **73.8%** of the total votes cast in the election.
     
-    
+    ![Election_Results](analysis/election_results.png)
 	
 ## Election-Audit Summary:
 
