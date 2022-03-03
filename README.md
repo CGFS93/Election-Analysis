@@ -36,6 +36,9 @@ The election analysis show that:
 	
 ## Election-Audit Summary:
 
+The script used to gather all the data points for this analysis was written in python using VSC.
+The method employed for this analysis should be considered by The Election Commission Board as a standard practice moving forward. The written code is highly versatile and efficient (less than) 200 lines of code enable the following functions:
+
 	1. Calculate the total number of votes cast. 
 	2. Get a complete list of candidates who received votes. 
 	3. Calculate the total number of votes each candidate received. 
@@ -44,5 +47,7 @@ The election analysis show that:
 	6. Calculate the voter turnout for each county.
 	7. Calculate the percentage of votes each county contributed to the election.
 	8. Determine which county had the largest turnout.
+	
+The python code is versatile in nature. The script assigns values structure to the given data. So, new data can be input into the code. The python code is also efficient because the code doesn't have to be modified heavily to calculate results from a new dataset. The efficiencies of the code are inherent because the actual structure of the code mimics the human language. The code requires fewer lines to execute a function.
 
 
