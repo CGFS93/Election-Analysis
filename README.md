@@ -1,6 +1,5 @@
 # Election Analysis 
 
-
 ## Overview of Election Audit:
 
 The Colorado Board of Elections requested help in completing an election audit of a recent local congressional election. 
